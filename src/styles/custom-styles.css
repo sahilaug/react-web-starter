@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+* {
+  font-family: 'Roboto-Light' !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+}
+
+.app-shell-content {
+  margin: 45px 0 45px 0 !important;
+}
+
+.uk-progress {
+  height: 5px;
+}

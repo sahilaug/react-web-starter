@@ -1,0 +1,1 @@
+React + Redux front-end scaffold.
